@@ -20,7 +20,7 @@
 - 📫 How to reach me **Hanykelany63@gmail.com**
 
 - ⚡ Fun fact **I am funny**
-- <img  align="center" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Coder GIF" width="200" height="250">
+- <img  align="center" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Coder GIF" width="400" height="250">
 
 
 <h3 align="left">Connect with me:</h3>
