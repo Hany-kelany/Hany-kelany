@@ -1,11 +1,11 @@
-<img  src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Coder GIF" width="1000" height="400">
+<img align="center"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="900" height="300">
 
 
 <h1 align="center">Hi 👋, I'm Hany Al-Kelany</h1>
 <h3 align="center">Backend-Developer (.Net Developer)</h3>
 
 
-<img align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Coder GIF" width="300" height="300">
+<img align="right" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Coder GIF" width="250" height="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hany-kelany&label=Profile%20views&color=0e75b6&style=flat" alt="hany-kelany" /> </p>
