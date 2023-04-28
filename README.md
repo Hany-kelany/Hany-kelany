@@ -11,7 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/hanyalkelany1" target="blank"><img src="https://img.shields.io/twitter/follow/hanyalkelany1?logo=twitter&style=for-the-badge" alt="hanyalkelany1" /></a> </p>
 
-<img align="right" src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Coder GIF" width="200" height="250">
 
 
 - 🌱 I’m currently learning **.Net core**
@@ -21,6 +20,8 @@
 - 📫 How to reach me **Hanykelany63@gmail.com**
 
 - ⚡ Fun fact **I am funny**
+- <img  align="center"> src="https://thumbs.gfycat.com/AngelicConcreteHypsilophodon.webp" alt="Coder GIF" width="200" height="250">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
